@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https:///sitemapx.xml
+Sitemap: https://droidupdate.github.io/sitemapx.xml
